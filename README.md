@@ -26,7 +26,9 @@ Codes were written using Python3.6.2, run this to install necessary packages:
 
 `pip install -r requirements.txt`
 
-The Unity environment only runs on Macs, for Windows users, download the Windows 32-bit version [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
+The Unity environment only runs on Macs, for Windows users, download the Windows 32-bit version [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip).
+
+Please follow the instruction in the [Udacity DRLND Instructions](https://github.com/udacity/deep-reinforcement-learning#dependencies) on setting up the environment.
 
 
 ### Instructions
